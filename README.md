@@ -28,12 +28,12 @@ This page provides a step by step walk through on how to use the HyperGrid wizar
 
 ![Step5](images/screen5.png)
 
-![Step6](images/screen6.png)
+![Step6](images/Screen6.png)
 
-![Step7](images/screen7.png)
+![Step7](images/Screen7.png)
 
-![Step8](images/screen8.png)
+![Step8](images/Screen8.png)
 
-![Step9](images/screen9.png)
+![Step9](images/Screen9.png)
 
-![Step10](images/screen10.png)
+![Step10](images/Screen10..png)
