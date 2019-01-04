@@ -11,7 +11,7 @@ This page provides a step by step walk through on how to use the HyperGrid wizar
 
 3. Once you press *New* , you are presented with a *wizard* that lets you configure the below parameters for the VM to be created: 
 
-* Resource Pool
+* Resource Pool - This is already preacreated and should be allocated to you for choosing. 
 * Size Provisioning applications and VMs through the API
 * Image
 * Subnet 
@@ -21,6 +21,8 @@ This page provides a step by step walk through on how to use the HyperGrid wizar
 * Advanced
 
 ![Step2](images/screen2.png)
+
+Choose from a list of provided preset configurations
 
 ![Step3](images/screen3.png)
 
