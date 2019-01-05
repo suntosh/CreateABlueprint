@@ -9,7 +9,7 @@ This page provides a step by step walk through on how to use the HyperGrid wizar
 
 ![Step1](images/screen1.png)
 
-3. Once you press *New* , you are presented with a *wizard* that lets you configure the below parameters for the VM to be created: 
+3. Once you press *New* , you are presented with a *wizard* that lets you configure the below parameters for the VM to be created:
 
 * Resource Pool - This is already preacreated and should be allocated to you for choosing. 
 * Size Provisioning applications and VMs through the API
