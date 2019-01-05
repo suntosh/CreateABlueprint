@@ -4,21 +4,23 @@
 
 This page provides a step by step walk through on how to use the HyperGrid wizard for creating a VM Blueprint.
 
-1. After you login you are presented with a set of menus. Click on the *Services* menu to see the list of running VMs. 
-2. Press the button *new* on the right of the screen
+1. After you login you are presented with a set of menus. Click on the **Services** menu to see the list of running VMs. 
+2. Press the button **new** on the right of the screen
 
 ![Step1](images/screen1.png)
 
-3. Once you press *New* , you are presented with a *wizard* that lets you configure the below parameters for the VM to be created:
+3. Once you press **New** , you are presented with a *wizard* that lets you configure the below parameters for the VM to be created:
 
-* Resource Pool - This is already preacreated and should be allocated to you for choosing. 
-* Size Provisioning applications and VMs through the API
-* Image
-* Subnet 
-* Security 
-* Authentication
-* Entitle
-* Advanced
+Parameter  | Description
+---- | ----
+Resource Pool  | This is already preacreated and should be allocated to you for choosing. 
+Size | Provisioning applications and VMs through the API
+Image | hkjhkh
+Subnet | jlkjljl
+Security | jkgjgjk
+Authentication | jhgjhghjg
+Entitle | jkgjhgjhg
+Advanced | jhgjhgjhgjh
 
 ![Step2](images/screen2.png)
 
