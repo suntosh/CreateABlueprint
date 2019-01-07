@@ -18,9 +18,8 @@ Size | Pre configured list of CPU, Memory and Storage sizes to chose from.
 Image | Precreated OS Images to choose from
 Subnet | The subnet that the VM should be a part of. 
 Security | HyperGrid Agent installation script run configuration.
-Authentication | 
-Entitle | jkgjhgjhg
-Advanced | jhgjhgjhgjh
+Entitle | Access control - the users that have access to the blue print
+Advanced | Run as a VM or Save as a blueprint for creating of future similar VM's
 
 ![Step2](images/screen2.png)
 
