@@ -5,7 +5,7 @@
 ### Requirments
 Access to the HyperGrid Cloud portal via an email/username and password.
 
-### Page
+### Steps to create a blueprint
 This page provides a step by step walk through on how to use the HyperGrid wizard for creating a VM Blueprint.
 
 1. After you login you are presented with a set of menus. Click on the __Services__ menu to see the list of running VMs. 
