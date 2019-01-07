@@ -2,7 +2,7 @@
 # HyperGrid Procedure For Creating a Blueprint
 ## For HyperGrid Portal
 
-### Requirments
+### Requirements
 Access to the HyperGrid Cloud portal via an email/username and password.
 
 ### Steps to create a blueprint
