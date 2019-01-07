@@ -14,11 +14,11 @@ This page provides a step by step walk through on how to use the HyperGrid wizar
 Parameter  | Description
 ---- | ----
 Resource Pool   | This is already preacreated and should be allocated to you for choosing. The ResourcePool indicates the combined hardware resources available for creating VM's. 
-Size   | Pre configured list of CPU, Memory and Storage sizes to chose from.
+Size   | Pre configured list of CPU, Memory and Storage sizes to choose from.
 Image  | Precreated OS Images to choose from
 Subnet | The subnet that the VM should be a part of. 
 VM Customization  | HyperGrid Agent installation script run configuration.
-Entitle  | Access control - the users that have access to the blue print
+Entitle  | Access control - the users that have access to the VM/blueprint
 Advanced   | Prefix for the VM name and if the VM needs to be a part an existing cluster.
 Review | Run as a VM or Save as a blueprint for creating of future similar VM's
 
