@@ -17,7 +17,7 @@ Resource Pool  | This is already preacreated and should be allocated to you for 
 Size | Pre configured list of CPU, Memory and Storage sizes to chose from.
 Image | Precreated OS Images to choose from
 Subnet | The subnet that the VM should be a part of. 
-Security | HyperGrid Agent installation script run configuration.
+VM Custmoization | HyperGrid Agent installation script run configuration.
 Entitle | Access control - the users that have access to the blue print
 Advanced | Prefix for the VM name and if the VM needs to be a part an existing cluster.
 Review | Run as a VM or Save as a blueprint for creating of future similar VM's
@@ -33,8 +33,6 @@ Choose from a list of provided preset configurations
 ![Step5](images/screen5.png)
 
 ![Step6](images/Screen6.png)
-
-![Step7](images/Screen7.png)
 
 ![Step8](images/Screen8.png)
 
