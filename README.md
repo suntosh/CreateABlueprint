@@ -43,5 +43,3 @@ Choose from a list of provided preset configurations
 ![Step9](images/Screen9.png)
 
 ![Step10](images/Screen10..png)
-
-## For HyperGrid API
