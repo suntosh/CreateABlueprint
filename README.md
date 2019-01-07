@@ -19,7 +19,8 @@ Image | Precreated OS Images to choose from
 Subnet | The subnet that the VM should be a part of. 
 Security | HyperGrid Agent installation script run configuration.
 Entitle | Access control - the users that have access to the blue print
-Advanced | Run as a VM or Save as a blueprint for creating of future similar VM's
+Advanced | Prefix for the VM name and if the VM needs to be a part an existing cluster.
+Review | Run as a VM or Save as a blueprint for creating of future similar VM's
 
 ![Step2](images/screen2.png)
 
