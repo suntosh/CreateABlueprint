@@ -13,12 +13,12 @@ This page provides a step by step walk through on how to use the HyperGrid wizar
 
 Parameter  | Description
 ---- | ----
-Resource Pool  | This is already preacreated and should be allocated to you for choosing. 
-Size | Provisioning applications and VMs through the API
-Image | hkjhkh
-Subnet | jlkjljl
-Security | jkgjgjk
-Authentication | jhgjhghjg
+Resource Pool  | This is already preacreated and should be allocated to you for choosing. The ResourcePool indicates the combined hardware resources available for creating VM's. 
+Size | Pre configured list of CPU, Memory and Storage sizes to chose from.
+Image | Precreated OS Images to choose from
+Subnet | The subnet that the VM should be a part of. 
+Security | HyperGrid Agent installation script run configuration.
+Authentication | 
 Entitle | jkgjhgjhg
 Advanced | jhgjhgjhgjh
 
